@@ -1,0 +1,14 @@
+.tributeHeader{
+    text-align: center;
+    color: black;
+    background-color: beige;
+}
+.customContainer{
+    
+    width: 100%;
+}
+.imgHeader{
+    width: 90%;
+    height: 600px;
+    margin-left: 60px;
+}

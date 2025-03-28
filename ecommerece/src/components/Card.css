@@ -1,0 +1,19 @@
+.cardOne{
+    background-color: rgb(176, 176, 176);
+    border: 1px solid black;
+}
+.cardOne:hover{
+    box-shadow: 2px 2px 2px red;
+}
+
+.ImgCard{
+    width: 100%;
+    height: 200px;
+}
+.headingCard{
+    color:white;
+    font-size: x-large;
+}
+.textCard{
+    font-style: italic;
+}
